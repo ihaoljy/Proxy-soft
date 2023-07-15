@@ -33,4 +33,24 @@ NekoBoxForAndroid永久更新地址：https://github.com/MatsuriDayo/NekoBoxForA
 
 tuict||sing-box||Hysteria永久更新地址：https://github.com/MatsuriDayo/plugins/releases
 
-Sagernet永久更新地址：https://github.com/SagerNet/SagerNet/releases/tag/0.8.1-rc03
+Sagernet永久更新地址：https://github.com/SagerNet/SagerNet/releases/tag/0.8.1-rc03    
+
+# 三、nekoray配置格式
+
+```txt
+{
+    "interface_name": "WARP",
+    "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8f0a:fcdb:db2f:3b3:4d49/128"
+    ],
+    "mtu": 1408,
+    "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+    "private_key": "GAl2z55U2UzNU5FG+LW3kowK+BA/WGMi1dWYwx20pWk=",
+    "server": "engage.cloudflareclient.com",
+    "server_port": 2408,
+    "system_interface": false,
+    "tag": "proxy",
+    "type": "wireguard"
+}
+```

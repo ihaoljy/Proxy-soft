@@ -1,4 +1,4 @@
-# 一、 Clash For Windows与v2rayN 下载+汉化
+## 一、 Clash For Windows与v2rayN 下载+汉化
 
 ### 客户端下载地址：
 
@@ -16,7 +16,9 @@ Clash官方汉化补丁永久更新地址：https://github.com/BoyceLig/Clash_Ch
 
 Clash for Windows\resources\app.asar
 
-# 二、 Clash For Android 下载
+------
+
+## 二、 Clash For Android 下载
 
 ### 手机端端下载地址：
 Clash 安卓客户端：https://github.com/naicfeng/ClashRForAndroid/releases
@@ -35,8 +37,10 @@ tuict||sing-box||Hysteria永久更新地址：https://github.com/MatsuriDayo/plu
 
 Sagernet永久更新地址：https://github.com/SagerNet/SagerNet/releases/tag/0.8.1-rc03    
 
-# 三、nekoray配置格式
+------
 
+## 三、nekoray配置格式
+    
 ```txt
 {
     "interface_name": "WARP",

@@ -39,7 +39,7 @@ Sagernet永久更新地址：https://github.com/SagerNet/SagerNet/releases/tag/0
 
 ------
 
-## 三、nekoray配置格式
+## 三、nekoray 或者 sing-box配置格式
     
 ```txt
 {

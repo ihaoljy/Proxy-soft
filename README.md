@@ -61,6 +61,8 @@ Sagernet永久更新地址：https://github.com/SagerNet/SagerNet/releases/tag/0
 }
 ```
 
+------
+
 ## 四、Wireguard分流规则
 <details>
   <summary>请点开我查看详细教程</summary>
@@ -155,3 +157,11 @@ dhcp-option DNS 127.0.0.1
 #### `配搭overture可实现访问国内网站用国内DNS，海外网站使用海外DNS`
 
 </details>
+
+------
+
+## 五、节点分享
+
+### 长风节点
+
+#### 节点地址：https://github.com/changfengoss/pub/tree/main/data  自己选最新的日期

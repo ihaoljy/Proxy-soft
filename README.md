@@ -8,6 +8,8 @@ Clash官方软件永久更新地址：https://github.com/Fndroid/clash_for_windo
 
 Clash汉化官方软件永久更新地址：https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/
 
+Clash.Meta内核永久更新地址：https://github.com/MetaCubeX/Clash.Meta/releases
+
 clash verge官方软件永久更新地址：https://github.com/zzzgydi/clash-verge/releases 
 
 nekoray官方软件永久更新地址：https://github.com/MatsuriDayo/nekoray/releases

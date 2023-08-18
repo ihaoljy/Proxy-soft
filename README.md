@@ -4,7 +4,9 @@
 
 v2rayN官方软件永久更新地址:https://github.com/2dust/v2rayN/releases
 
-Clash官方软件永久更新地址：https://github.com/Fndroid/clash_for_windows_pkg/releases/    
+Clash官方软件永久更新地址：https://github.com/Fndroid/clash_for_windows_pkg/releases/
+
+Clash汉化官方软件永久更新地址：https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/
 
 clash verge官方软件永久更新地址：https://github.com/zzzgydi/clash-verge/releases 
 

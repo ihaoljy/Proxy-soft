@@ -2,23 +2,23 @@
 
 ### 客户端下载地址：
 
-v2rayN官方软件永久更新地址:https://github.com/2dust/v2rayN/releases
+1.v2rayN官方软件永久更新地址:https://github.com/2dust/v2rayN/releases
 
-Clash官方软件永久更新地址：https://github.com/Fndroid/clash_for_windows_pkg/releases/
+2.Clash官方软件永久更新地址：https://github.com/Fndroid/clash_for_windows_pkg/releases/
 
-Clash汉化官方软件永久更新地址：https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/
+3.Clash汉化官方软件永久更新地址：https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/
 
-clash verge官方软件永久更新地址：https://github.com/zzzgydi/clash-verge/releases 
+4.clash verge官方软件永久更新地址：https://github.com/zzzgydi/clash-verge/releases 
 
-nekoray官方软件永久更新地址：https://github.com/MatsuriDayo/nekoray/releases
+5.nekoray官方软件永久更新地址：https://github.com/MatsuriDayo/nekoray/releases
 
 ### 内核下载地址：
 
-Clash.Meta内核永久更新地址：https://github.com/MetaCubeX/Clash.Meta/releases
+1.Clash.Meta内核永久更新地址：https://github.com/MetaCubeX/Clash.Meta/releases
 
-naiveproxy内核永久更新地址：https://github.com/klzgrad/naiveproxy/releases
+2.naiveproxy内核永久更新地址：https://github.com/klzgrad/naiveproxy/releases
 
-Tuic内核永久更新地址：https://github.com/EAimTY/tuic/releases
+3.Tuic内核永久更新地址：https://github.com/EAimTY/tuic/releases
 
 ### 汉化方法：
 
@@ -33,21 +33,21 @@ Clash for Windows\resources\app.asar
 ## 二、 Clash For Android 下载
 
 ### 手机端端下载地址：
-Clash 安卓客户端：https://github.com/naicfeng/ClashRForAndroid/releases
+1.Clash 安卓客户端：https://github.com/naicfeng/ClashRForAndroid/releases
 
-ClashForAndroid永久更新地址：https://github.com/Kr328/ClashForAndroid/releases
+2.ClashForAndroid永久更新地址：https://github.com/Kr328/ClashForAndroid/releases
 
-v2rayNG永久更新地址：https://github.com/2dust/v2rayNG/releases
+3.v2rayNG永久更新地址：https://github.com/2dust/v2rayNG/releases
 
-surfboard永久更新地址：https://github.com/getsurfboard/surfboard/releases
+4.surfboard永久更新地址：https://github.com/getsurfboard/surfboard/releases
 
-Matsuri永久更新地址：https://github.com/MatsuriDayo/Matsuri/releases
+5.Matsuri永久更新地址：https://github.com/MatsuriDayo/Matsuri/releases
 
-NekoBoxForAndroid永久更新地址：https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+6.NekoBoxForAndroid永久更新地址：https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
-tuict||sing-box||Hysteria永久更新地址：https://github.com/MatsuriDayo/plugins/releases
+7.tuict||sing-box||Hysteria永久更新地址：https://github.com/MatsuriDayo/plugins/releases
 
-Sagernet永久更新地址：https://github.com/SagerNet/SagerNet/releases/tag/0.8.1-rc03    
+8.Sagernet永久更新地址：https://github.com/SagerNet/SagerNet/releases/tag/0.8.1-rc03    
 
 ------
 

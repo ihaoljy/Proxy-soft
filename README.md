@@ -12,6 +12,8 @@
 
 5.nekoray官方软件永久更新地址：https://github.com/MatsuriDayo/nekoray/releases
 
+6.Hiddify-Next官方软件永久更新地址：https://github.com/hiddify/hiddify-next/blob/main/README_cn.md
+
 ### 内核下载地址：
 
 1.Clash.Meta内核永久更新地址：https://github.com/MetaCubeX/Clash.Meta/releases
@@ -48,6 +50,8 @@ Clash for Windows\resources\app.asar
 7.tuict||sing-box||Hysteria永久更新地址：https://github.com/MatsuriDayo/plugins/releases
 
 8.Sagernet永久更新地址：https://github.com/SagerNet/SagerNet/releases/tag/0.8.1-rc03    
+
+9.Hiddify-Next永久更新地址：https://github.com/hiddify/hiddify-next/blob/main/README_cn.md
 
 ------
 

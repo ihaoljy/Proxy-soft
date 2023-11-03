@@ -37,7 +37,7 @@ Clash for Windows\resources\app.asar
 ### 手机端端下载地址：
 1.Clash 安卓客户端：https://github.com/naicfeng/ClashRForAndroid/releases
 
-2.ClashForAndroid永久更新地址：https://github.com/Kr328/ClashForAndroid/releases
+~~2.ClashForAndroid永久更新地址：https://github.com/Kr328/ClashForAndroid/releases已删库停更~~
 
 3.v2rayNG永久更新地址：https://github.com/2dust/v2rayNG/releases
 

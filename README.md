@@ -53,6 +53,8 @@ Clash for Windows\resources\app.asar
 
 9.Hiddify-Next永久更新地址：https://github.com/hiddify/hiddify-next/blob/main/README_cn.md
 
+10.ClashMetaForAndroid永久更新地址：https://github.com/ihaoljy/ClashMetaForAndroid
+
 ------
 
 ## 三、nekoray 或者 sing-box配置格式
